@@ -1,6 +1,6 @@
 # Llama3-Radiology-Report-Augmentation
 
-Llama3 is one of the most recognized and widely used large language models (LLMs) today. Due to its capabilities, it is interesting to leverage it for generating more data through text augmentation. In this repository, Llama3 is used to generate different reports based on an original report.
+[Llama3](https://llama.meta.com/llama3/) is one of the most recognized and widely used large language models (LLMs) today. Due to its capabilities, it is interesting to leverage it for generating more data through text augmentation. In this repository, Llama3 is used to generate different reports based on an original report.
 
 ## Usage Example
 
